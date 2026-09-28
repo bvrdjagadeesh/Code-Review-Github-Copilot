@@ -14,6 +14,10 @@ actions so Copilot can reason over your PRs.
 
 - **Agent actions** — `list_ado_pull_requests`, `show_ado_pr_detail`, `show_ado_pr_file_diff`, `vote_on_ado_pull_request`, `comment_on_ado_pull_request`, `refresh_ado_pull_requests`
 
+Agent will directly communicate with Canvas to review the pr and add comments to the pr directly.
+<img width="692" height="238" alt="image" src="https://github.com/user-attachments/assets/3cad7aa7-6f25-4c5a-9951-a8471f94ba0c" />
+
+
 Canvas id: `ado-pr-dashboard` · display name: **Azure DevOps PRs**
 
 ## Using it in other sessions
